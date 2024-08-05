@@ -69,12 +69,7 @@ I'm a dedicated data professional with a strong background in data analysis, vis
   <a href="https://github.com/ijaazm10/line-following-robot" target="_blank">
     <img src="https://img.shields.io/badge/Line_Following_Robot-Python-orange" alt="Line Following Robot">
   </a>
-  <a href="https://github.com/ijaazm10/hydrodynamic-analysis-cargo-ship" target="_blank">
-    <img src="https://img.shields.io/badge/Hydrodynamic_Analysis-MATLAB-brightgreen" alt="Hydrodynamic Analysis">
-  </a>
-  <a href="https://github.com/ijaazm10/sae-tractor-design" target="_blank">
-    <img src="https://img.shields.io/badge/SAE_Tractor_Design-SolidWorks-blue" alt="SAE Tractor Design">
-  </a>
+
   <a href="https://github.com/ijaazm10/PowerBI-World-Cup-Dashboard" target="_blank">
     <img src="https://img.shields.io/badge/PowerBI_World_Cup_Dashboard-Power_BI-lightblue" alt="Power BI World Cup Dashboard">
   </a>
