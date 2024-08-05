@@ -1,4 +1,4 @@
-[![MasterHead](https://your-image-url.com/professional-banner.jpg)](https://your-website.com)
+[![MasterHead]([https://your-image-url.com/professional-banner.jpg](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*V6XCDfSoK1NQUA1eRe0phw.jpeg))](https://your-website.com)
 <h1 align="center">Hi 👋, I'm Ijaaz</h1>
 <h3 align="center">A Passionate Data Enthusiast Who Loves Transforming Data Into Insightful Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://your-image-url.com/coding-professional.gif">
@@ -60,6 +60,9 @@ I'm a dedicated data professional with a strong background in data analysis, vis
 
 <h3 align="left">Projects:</h3>
 <p align="left">
+  <a href="https://github.com/ijaazm10/Consulting-Customer-Retention-for-Mobility-World-Wide" target="_blank">
+    <img src="https://img.shields.io/badge/Consulting_Customer_Retention-Google_Cloud-red" alt="Consulting Customer Retention">
+  </a>
   <a href="https://github.com/ijaazm10/traffic-flow-optimization" target="_blank">
     <img src="https://img.shields.io/badge/Traffic_Flow_Optimization-Java-yellowgreen" alt="Traffic Flow Optimization">
   </a>
@@ -78,6 +81,7 @@ I'm a dedicated data professional with a strong background in data analysis, vis
   <a href="https://github.com/ijaazm10/Tableau-Champions-League-Dashboard" target="_blank">
     <img src="https://img.shields.io/badge/UEFA_Champions_League_Stats_Dashboard-Tableau-darkblue" alt="UEFA Champions League Stats Dashboard">
   </a>
+
 </p>
 
 <h3 align="left">Skills:</h3>
