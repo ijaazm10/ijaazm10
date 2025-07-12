@@ -10,7 +10,7 @@ I'm a dedicated data professional with a strong background in data analysis, vis
 - 🔭 **Current Project:** Working on **ROS2 Husky bot**.
 - 💬 **Ask Me About:** Python, C++, Data Analysis, Data Visualization.
 - 📫 **Contact Me:** [ijaazmm@gmail.com](mailto:ijaazmm@gmail.com).
-
+- 💼 **Portfolio** [IJAAZ][https://ijaazm10.github.io/].
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ijaaz-muhammed/" target="_blank">
