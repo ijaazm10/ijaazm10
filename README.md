@@ -1,109 +1,100 @@
-[![MasterHead]([https://your-image-url.com/professional-banner.jpg](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*V6XCDfSoK1NQUA1eRe0phw.jpeg))](https://your-website.com)
-<h1 align="center">Hi 👋, I'm Ijaaz</h1>
-<h3 align="center">A Passionate Data Enthusiast Who Loves Transforming Data Into Insightful Solutions</h3>
-<img align="right" alt="Coding" width="400" src="https://your-image-url.com/coding-professional.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Ijaaz%20Muhammed&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Enthusiast%20%7C%20Software%20Developer%20%7C%20Robotics&descAlignY=55&descColor=8b949e" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ijaazm10&label=Profile%20views&color=0e75b6&style=flat" alt="ijaazm10" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ijaaz+%F0%9F%91%8B;Data+Enthusiast+%26+Developer;Turning+Data+into+Insights" alt="Typing SVG" />
+</h1>
 
-I'm a dedicated data professional with a strong background in data analysis, visualization, and software development. My expertise spans multiple programming languages and tools, allowing me to craft comprehensive data-driven solutions.
-
-- 🔭 **Current Project:** Working on **ROS2 Husky bot**.
-- 💬 **Ask Me About:** Python, C++, Data Analysis, Data Visualization.
-- 📫 **Contact Me:** [ijaazmm@gmail.com](mailto:ijaazmm@gmail.com).
-- 💼 **Portfolio** [IJAAZ][https://ijaazm10.github.io/].
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ijaazm10&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  &nbsp;
   <a href="https://www.linkedin.com/in/ijaaz-muhammed/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Ijaaz Muhammed" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:ijaazmm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://ijaazm10.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="SAP" width="40" height="40"/> 
-  </a> 
+---
+
+## About Me
+
+I'm a dedicated data professional with a strong background in **data analysis**, **visualization**, and **software development**. I love transforming raw data into insightful solutions that drive real-world impact.
+
+- 🔭 Currently working on **ROS2 Husky bot**
+- 💬 Ask me about **Python, C++, Data Analysis, Data Visualization**
+- 📫 Reach me at **[ijaazmm@gmail.com](mailto:ijaazmm@gmail.com)**
+- 🌐 Check out my **[Portfolio](https://ijaazm10.github.io/)**
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-  <a href="https://github.com/ijaazm10/Consulting-Customer-Retention-for-Mobility-World-Wide" target="_blank">
-    <img src="https://img.shields.io/badge/Consulting_Customer_Retention-Google_Cloud-red" alt="Consulting Customer Retention">
-  </a>
-  <a href="https://github.com/ijaazm10/traffic-flow-optimization" target="_blank">
-    <img src="https://img.shields.io/badge/Traffic_Flow_Optimization-Java-yellowgreen" alt="Traffic Flow Optimization">
-  </a>
-  <a href="https://github.com/ijaazm10/line-following-robot" target="_blank">
-    <img src="https://img.shields.io/badge/Line_Following_Robot-Python-orange" alt="Line Following Robot">
-  </a>
+**Tools & Platforms**
 
-  <a href="https://github.com/ijaazm10/PowerBI-World-Cup-Dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/PowerBI_World_Cup_Dashboard-Power_BI-lightblue" alt="Power BI World Cup Dashboard">
-  </a>
-  <a href="https://github.com/ijaazm10/Tableau-Champions-League-Dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/UEFA_Champions_League_Stats_Dashboard-Tableau-darkblue" alt="UEFA Champions League Stats Dashboard">
-  </a>
-
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-<h3 align="left">Skills:</h3>
-<p align="left">
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira">
-  </a>
-  <a href="https://www.scrum.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Scrum-006B8A?style=flat&logo=scrum&logoColor=white" alt="Scrum">
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium">
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  </a>
-  <a href="https://www.sap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP">
-  </a>
+**Data & BI**
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ijaazm10&show_icons=true&locale=en&layout=compact" alt="ijaazm10" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ijaazm10&show_icons=true&locale=en" alt="ijaazm10" /></p>
+## Featured Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [Consulting Customer Retention](https://github.com/ijaazm10/Consulting-Customer-Retention-for-Mobility-World-Wide) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | Customer retention analysis using Google Cloud |
+| [Traffic Flow Optimization](https://github.com/ijaazm10/traffic-flow-optimization) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Optimizing urban traffic flow with Java |
+| [Line Following Robot](https://github.com/ijaazm10/line-following-robot) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Autonomous line-following robot in Python |
+| [Power BI World Cup Dashboard](https://github.com/ijaazm10/PowerBI-World-Cup-Dashboard) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) | Interactive FIFA World Cup analytics |
+| [UEFA Champions League Dashboard](https://github.com/ijaazm10/Tableau-Champions-League-Dashboard) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) | UEFA Champions League stats visualization |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ijaazm10&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="Ijaaz's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ijaazm10&show_icons=true&theme=github_dark&hide_border=true&layout=compact" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijaazm10&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" />
+</div>
