@@ -26,11 +26,14 @@
 class Ijaaz:
     def __init__(self):
         self.name       = "Ijaaz Muhammed"
-        self.role       = "Data Enthusiast & Developer"
-        self.current    = "ROS2 Husky Bot"
-        self.languages  = ["Python", "C++", "Java", "JavaScript", "TypeScript"]
-        self.tools      = ["Google Cloud", "SAP", "Power BI", "Tableau", "MySQL"]
-        self.skills     = ["Data Analysis", "Visualization", "Robotics", "Agile/Scrum"]
+        self.role       = "Product Owner · Data Engineer · ML Practitioner"
+        self.currently  = "Product Owner @ Mercedes-Benz Insurance Services"
+        self.studying   = "M.Sc. Digital Engineering · Otto von Guericke University"
+        self.languages  = ["Python", "C++", "Java", "SQL"]
+        self.tools      = ["BigQuery", "Looker Studio", "Power BI", "Tableau",
+                           "Jira", "Confluence", "SAP", "Selenium"]
+        self.skills     = ["Agile/SAFe", "Requirements Engineering",
+                           "Data Analysis", "ML (LoRA/PEFT)", "Robotics (ROS2)"]
         self.contact    = "ijaazmm@gmail.com"
 
     def say_hi(self):
@@ -55,17 +58,24 @@ me.say_hi()
 
 ### Data & Cloud
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
+### ML & Frameworks
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
 ### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -77,7 +87,8 @@ me.say_hi()
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| [🤖 ROS2 Husky Bot](https://github.com/ijaazm10) | ROS2 · Python | Autonomous robot development with ROS2 |
+| [🧠 PEFT Sentiment Classifier](https://github.com/ijaazm10) | DistilBERT · LoRA · PyTorch | 92% accuracy with <2% trainable params |
+| [🤖 ROS2 Husky Bot](https://github.com/ijaazm10) | ROS2 · Gazebo · LiDAR | Digital twin with autonomous navigation |
 | [📊 Customer Retention Analysis](https://github.com/ijaazm10/Consulting-Customer-Retention-for-Mobility-World-Wide) | Google Cloud | Consulting-grade retention analytics |
 | [🚦 Traffic Flow Optimization](https://github.com/ijaazm10/traffic-flow-optimization) | Java | Smart traffic management system |
 | [🤖 Line Following Robot](https://github.com/ijaazm10/line-following-robot) | Python | Embedded systems & robotics |
