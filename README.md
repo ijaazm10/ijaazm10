@@ -1,171 +1,148 @@
 <div align="center">
 
-# Ijaaz Muhammed Mullamangalam
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:4C9AFF,100:3FB98A&height=230&section=header&text=Ijaaz%20Muhammed%20Mullamangalam&fontSize=36&fontColor=E6EDF3&fontAlignY=38&desc=Product%20%7C%20Requirements%20%7C%20Applied%20AI&descSize=17&descAlignY=58&descColor=E6EDF3&animation=fadeIn" alt="Ijaaz Muhammed Mullamangalam" />
 
-### Product & Requirements Professional with Technical and Applied-AI Depth
+### I turn unclear business and system needs into solutions teams can build, test, and trust.
 
-I turn complex business and system needs into clear requirements, testable solutions, and dependable releases.
+My work sits between **Product, Engineering, QA, and data**.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijaaz-muhammed)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijaazmm@gmail.com)
-![Location](https://img.shields.io/badge/Magdeburg-Germany-2F855A?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-View_my_work-4C9AFF?style=for-the-badge&logo=githubpages&logoColor=white)](https://ijaazm10.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijaaz-muhammed)
+[![Email](https://img.shields.io/badge/EMAIL-Get_in_touch-3FB98A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijaazmm@gmail.com)
+
+![Location](https://img.shields.io/badge/Magdeburg-Germany-141B26?style=flat-square&logo=googlemaps&logoColor=4C9AFF)
+![English](https://img.shields.io/badge/English-C1-141B26?style=flat-square)
+![German](https://img.shields.io/badge/German-B1_%7C_B2_course-141B26?style=flat-square)
 
 </div>
 
 <br>
 
-## About Me
+## About
 
-My work sits between **business stakeholders, Product, Engineering, UX, QA, and data**.
+I enjoy the part of software delivery where an unclear need has to become something a team can build, test, and trust.
 
-I enjoy the part of software delivery where an unclear need has to become something a team can build, test, and trust. That means clarifying requirements, modelling processes, writing user stories and acceptance criteria, supporting validation, and investigating APIs, logs, or data when a system behaves differently than expected.
+That usually means clarifying requirements, modelling processes, writing user stories and acceptance criteria, supporting validation, and investigating APIs, logs, or data when a system behaves differently than expected.
 
-My technical work ranges from **LLM-based requirements traceability** and data analysis to robotics, simulation, database systems, and software quality.
+This profile contains the technical side of that work: **LLM-based requirements engineering, data analysis, robotics, simulation, database systems, and software quality**.
 
 <br>
 
-## Current Focus
+## How I Work
 
-| Requirements & Product | Applied AI & Data | System Quality |
-|:---|:---|:---|
-| Requirements engineering, process modelling, user stories, acceptance criteria, and product delivery | LLM evaluation, RAG, LoRA/QLoRA, retrieval, benchmark design, and analytics | UAT, release validation, API investigation, data-flow analysis, and test automation |
+| **01 · Clarify** | **02 · Model** | **03 · Validate** | **04 · Improve** |
+|:---:|:---:|:---:|:---:|
+| Understand the business need, users, constraints, and dependencies | Translate the problem into requirements, processes, data flows, or experiments | Compare expected and actual behaviour using tests, APIs, logs, and data | Turn findings into clearer requirements, better decisions, and dependable releases |
 
 <br>
 
 ## Featured Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [LLM Requirements Traceability](https://github.com/ijaazm10/llm-requirements-traceability)
-
-Master's thesis research on automated cross-level requirements traceability.
-
-Built an end-to-end evaluation pipeline covering retrieval, embeddings, BERT classification, open-weight and cloud LLMs, FAISS RAG, BM25 hybrid retrieval, and LoRA/QLoRA.
-
-Evaluated on a controlled benchmark of **42,012 requirement pairs** from eight open-source projects, including reliability, latency, cost, statistical significance, and cross-project robustness.
+| | |
+|:---|:---|
+| **[LLM-Based Requirements Traceability](https://github.com/ijaazm10/llm-requirements-traceability)**<br><br>![Research](https://img.shields.io/badge/MASTER'S_THESIS-3FB98A?style=flat-square)<br><br>An end-to-end experimental pipeline for automated cross-level requirements traceability. Compared retrieval, embeddings, BERT classification, open-weight and cloud LLMs, FAISS RAG, BM25 hybrid retrieval, and LoRA/QLoRA.<br><br>Evaluated on a controlled benchmark of **42,012 requirement pairs** from eight open-source projects, including accuracy, reliability, latency, cost, and cross-project robustness.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-4C9AFF?style=flat-square) ![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-4C9AFF?style=flat-square) | **[Husky Digital Twin](https://github.com/ijaazm10/Husky-Digital-Twin)**<br><br>![Systems](https://img.shields.io/badge/SYSTEMS_%26_SIMULATION-3FB98A?style=flat-square)<br><br>A functional digital twin of a Husky robot built with ROS2 Foxy, Gazebo, RViz, Python, and XACRO.<br><br>Integrated simulated LiDAR, stereo-camera, and GPS sensors through ROS2 topics, URDF/XACRO definitions, and Gazebo plugins. The project focused on system integration, sensor validation, interfaces, and technical debugging.<br><br>![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-EF5B25?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **[Benchmarking Hybrid-Memory B+ Trees](https://github.com/ijaazm10/benchmarking_B-trees)**<br><br>![Database](https://img.shields.io/badge/DATABASE_INTERNALS-3FB98A?style=flat-square)<br><br>A study comparing an NVM-optimised B+ tree with an FP-tree for hybrid NVM/DRAM systems.<br><br>Benchmarked insertion, search, and deletion latency, CPU use, and memory efficiency. Analysed performance and architecture trade-offs using Intel VTune, perf, and Valgrind.<br><br>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Profiling](https://img.shields.io/badge/Performance-Profiling-4C9AFF?style=flat-square) | **[Branch Feasibility Analysis](https://github.com/ijaazm10/Consulting-Customer-Retention-for-Mobility-World-Wide)**<br><br>![Analytics](https://img.shields.io/badge/ANALYTICS_%26_DECISIONS-3FB98A?style=flat-square)<br><br>A university customer project converting six operational datasets into an evidence-based branch feasibility analysis.<br><br>Combined data preparation, cost analysis, forecasting, mapping, and visual reporting to communicate findings to non-technical stakeholders.<br><br>![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white) |
 
 <br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-455A64?style=flat-square)
-![LoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-455A64?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### [Husky Digital Twin](https://github.com/ijaazm10/Husky-Digital-Twin)
-
-A functional digital twin of a Husky robot built with ROS2 Foxy, Gazebo, RViz, Python, and XACRO.
-
-Integrated simulated LiDAR, stereo-camera, and GPS sensors through ROS2 topics, URDF/XACRO definitions, and Gazebo plugins.
-
-The project focused on system integration, interfaces, simulation setup, sensor validation, and technical debugging.
-
-<br>
-
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-EF5B25?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [Hybrid Memory B+ Trees](https://github.com/ijaazm10/benchmarking_B-trees)
-
-A database-internals study comparing B+ tree implementations for hybrid NVM/DRAM systems.
-
-Benchmarked insertion, search, and deletion performance, CPU use, and memory efficiency. Analysed architecture trade-offs using Intel VTune, perf, and Valgrind.
-
-<br>
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Profiling](https://img.shields.io/badge/Performance-Profiling-455A64?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### [Branch Feasibility Analysis](https://github.com/ijaazm10/Consulting-Customer-Retention-for-Mobility-World-Wide)
-
-A university customer project converting six operational datasets into an evidence-based branch feasibility analysis.
-
-Combined data preparation, cost analysis, forecasting, mapping, and visual reporting to communicate findings to non-technical stakeholders.
-
-<br>
-
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 <details>
 <summary><strong>More projects</strong></summary>
 
 <br>
 
-- **[Traffic Flow Optimization](https://github.com/ijaazm10/Traffic-Flow-Optimization-for-Stadtplannungsamt-Magdeburg)**  
-  Modelled operational traffic flows in AnyLogic for a municipal customer and compared improvement scenarios.
+### [Traffic Flow Optimization for Magdeburg](https://github.com/ijaazm10/Traffic-Flow-Optimization-for-Stadtplannungsamt-Magdeburg)
 
-- **[Power BI World Cup Dashboard](https://github.com/ijaazm10/PowerBI-World-Cup-Dashboard-)**  
-  Transformed raw football data into accessible KPIs and visual analysis for non-technical readers.
+Operational traffic flows modelled in AnyLogic for a municipal customer. Stakeholder needs were translated into measurable simulation scenarios, with improvement options compared side by side.
 
-- **[Tableau Champions League Dashboard](https://github.com/ijaazm10/Tableau-Champions-League-Dashboard)**  
-  Interactive visual exploration of UEFA Champions League data.
+![AnyLogic](https://img.shields.io/badge/AnyLogic-Simulation-4C9AFF?style=flat-square)
+![Analysis](https://img.shields.io/badge/Operational-Analysis-3FB98A?style=flat-square)
 
-- **[DistilBERT Sentiment Classification](https://github.com/ijaazm10/PEFT-Based-Sentiment-Classification-with-DistilBERT-)**  
-  Parameter-efficient fine-tuning of DistilBERT using LoRA for sentiment classification.
+---
+
+### [DistilBERT Sentiment Classification](https://github.com/ijaazm10/PEFT-Based-Sentiment-Classification-with-DistilBERT-)
+
+Parameter-efficient fine-tuning of DistilBERT using LoRA for sentiment classification.
+
+![NLP](https://img.shields.io/badge/NLP-DistilBERT-4C9AFF?style=flat-square)
+![LoRA](https://img.shields.io/badge/PEFT-LoRA-3FB98A?style=flat-square)
+
+---
+
+### [Power BI World Cup Dashboard](https://github.com/ijaazm10/PowerBI-World-Cup-Dashboard-)
+
+Raw football data transformed into accessible KPIs and visual analysis for non-technical readers.
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Dashboard](https://img.shields.io/badge/Data-Visualisation-3FB98A?style=flat-square)
+
+---
+
+### [Tableau Champions League Dashboard](https://github.com/ijaazm10/Tableau-Champions-League-Dashboard)
+
+An interactive visual exploration of UEFA Champions League data.
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-4C9AFF?style=flat-square)
 
 </details>
 
 <br>
 
-## Experience Snapshot
+## Experience
 
-**Mercedes-Benz Insurance Services GmbH**  
-Product Owner Associate / Requirements Engineer / Business Analyst
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Supported a dealer-facing insurance platform by clarifying requirements with international stakeholders, modelling business processes, preparing user stories and acceptance criteria, and supporting features through UAT, release validation, and issue investigation.
+### Mercedes-Benz Insurance Services
 
-**Cognizant Technology Solutions · London Stock Exchange Group**
+**Product Owner Associate · Requirements Engineer · Business Analyst**
 
-Worked as a Program Analyst in quality assurance and test automation for business-critical financial market-data systems, including end-to-end data-flow validation and automated regression testing.
+Supported a dealer-facing insurance platform by clarifying requirements with international stakeholders, modelling business processes, and preparing user stories and acceptance criteria.
+
+Stayed involved through refinement, UAT, release validation, and issue investigation using APIs, logs, SQL, and data-flow analysis.
+
+</td>
+<td width="50%" valign="top">
+
+### Cognizant · London Stock Exchange Group
+
+**Program Analyst · Quality Assurance**
+
+Supported business-critical financial market-data systems through end-to-end data-flow validation, defect investigation, and automated regression testing.
+
+Worked with distributed teams to translate system and data requirements into testable scenarios and expected results.
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ## Toolbox
 
-**Product & delivery**
+**Product, requirements, and delivery**
 
-![Requirements](https://img.shields.io/badge/Requirements-Engineering-34495E?style=flat-square)
-![User Stories](https://img.shields.io/badge/User_Stories-Acceptance_Criteria-34495E?style=flat-square)
-![BPMN](https://img.shields.io/badge/BPMN-Process_Modelling-34495E?style=flat-square)
-![UAT](https://img.shields.io/badge/UAT-Release_Validation-34495E?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile-Scrum_%7C_SAFe-34495E?style=flat-square)
+![Requirements](https://img.shields.io/badge/Requirements-Engineering-4C9AFF?style=flat-square)
+![User Stories](https://img.shields.io/badge/User_Stories-Acceptance_Criteria-4C9AFF?style=flat-square)
+![BPMN](https://img.shields.io/badge/BPMN-Process_Modelling-4C9AFF?style=flat-square)
+![UAT](https://img.shields.io/badge/UAT-Release_Validation-4C9AFF?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-Scrum_%7C_SAFe-4C9AFF?style=flat-square)
 
-**Data & AI**
+**Data and applied AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**Tools & systems**
+**Tools and systems**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
@@ -178,15 +155,22 @@ Worked as a Program Analyst in quality assurance and test automation for busines
 
 <div align="center">
 
-### The common thread
+## The Common Thread
 
-Turning messy business or system problems into something clearer:  
-**requirements, models, tests, dashboards, or experiments.**
+Turning complex business or system problems into something clearer:
+
+### Requirements · Models · Tests · Dashboards · Experiments
 
 <br>
 
-M.Sc. Digital Engineering (Informatik) · Otto von Guericke University Magdeburg
+**M.Sc. Digital Engineering (Informatik)**  
+Otto von Guericke University Magdeburg
 
-English C1 · German B1, currently attending a B2 course
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-4C9AFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijaaz-muhammed)
+[![Email](https://img.shields.io/badge/Get_in_touch-Email-3FB98A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijaazmm@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:4C9AFF,100:3FB98A&height=110&section=footer" alt="" />
 
 </div>
