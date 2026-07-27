@@ -1,113 +1,62 @@
-<div align="center">
+# Ijaaz Muhammed Mullamangalam
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ijaaz%20Muhammed&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Enthusiast%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descColor=8b949e)
+**Product & Requirements Professional — Business Analysis · Applied AI · Data-Backed Delivery**
 
-<img src="https://komarev.com/ghpvc/?username=ijaazm10&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="profile views" />
-&nbsp;
-<a href="https://www.linkedin.com/in/ijaaz-muhammed/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:ijaazmm@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://ijaazm10.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+I work at the point where business needs become working software. My strongest position is between Product, Engineering, UX, QA, and data: I turn discussions and business goals into clear, testable requirements, and I stay involved through validation, release, and issue investigation rather than handing a document over and walking away.
 
-</div>
+Around 3.5 years across product delivery, business analysis, requirements engineering, and software quality assurance, most recently on a high-volume digital insurance platform at Mercedes-Benz. This GitHub is my portfolio for that work: requirements, applied AI, and analytical systems, with the engineering evidence behind the decisions.
 
 ---
 
-## 🙋‍♂️ About Me
+### Currently
 
-```python
-class Ijaaz:
-    def __init__(self):
-        self.name       = "Ijaaz Muhammed"
-        self.role       = "Data Enthusiast & Developer"
-        self.current    = "ROS2 Husky Bot"
-        self.languages  = ["Python", "C++", "Java", "JavaScript", "TypeScript"]
-        self.tools      = ["Google Cloud", "SAP", "Power BI", "Tableau", "MySQL"]
-        self.skills     = ["Data Analysis", "Visualization", "Robotics", "Agile/Scrum"]
-        self.contact    = "ijaazmm@gmail.com"
+Completing an M.Sc. in Digital Engineering (Informatik) at Otto von Guericke University Magdeburg. My master's thesis evaluates how large language models can make **requirements traceability** more reliable, comparing retrieval, fine-tuning (LoRA/QLoRA), and RAG approaches on a controlled benchmark of **42,012 requirement pairs** from eight open-source projects, with a full evaluation of accuracy, reliability, latency, and cost for industrial use.
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's turn data into decisions. 🚀")
+### Roles I'm targeting
 
-me = Ijaaz()
-me.say_hi()
-```
+Business Analyst · Product Owner Associate · Associate Product Manager · Requirements Engineer · Product Delivery / Functional Analyst · selected applied-AI and data roles.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Work
 
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Data & Cloud
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
-### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
+| Project | What it shows |
+| --- | --- |
+| [llm-requirements-traceability](https://github.com/ijaazm10/llm-requirements-traceability) | Master's thesis. End-to-end LLM evaluation pipeline for cross-level requirements traceability: retrieval, embeddings, a frozen BERT classifier, open-weight and cloud LLMs, FAISS RAG, BM25 hybrid retrieval, and LoRA/QLoRA fine-tuning. A 42,012-pair hard-negative benchmark, evaluated with significance testing and bootstrap confidence intervals. |
+| [Husky-Digital-Twin](https://github.com/ijaazm10/Husky-Digital-Twin) | A functional digital twin of a Husky robot in ROS2 Foxy, Gazebo, and RViz, with simulated LiDAR, stereo-camera, and GPS sensors integrated through URDF/XACRO and Gazebo plugins. System integration, interfaces, and debugging. |
+| [benchmarking_B-trees](https://github.com/ijaazm10/benchmarking_B-trees) | Database-internals study comparing an NVM-optimised B+ tree with an FP-tree for hybrid NVM/DRAM systems. Benchmarked latency, CPU, and memory with Intel VTune, perf, and Valgrind, and documented architecture trade-offs. |
+| [Consulting-Customer-Retention-for-Mobility-World-Wide](https://github.com/ijaazm10/Consulting-Customer-Retention-for-Mobility-World-Wide) | A data-driven branch cost and feasibility analysis using BigQuery, Python, BigQuery ML, and Looker Studio, turning six operational datasets into an evidence-based recommendation for non-technical stakeholders. |
+| [Traffic-Flow-Optimization-for-Stadtplannungsamt-Magdeburg](https://github.com/ijaazm10/Traffic-Flow-Optimization-for-Stadtplannungsamt-Magdeburg) | Modelled operational traffic flows in AnyLogic, translated stakeholder needs into measurable simulation scenarios, and compared improvement options for a real municipal client. |
+| [PowerBI-World-Cup-Dashboard](https://github.com/ijaazm10/PowerBI-World-Cup-Dashboard-) | Turning raw data into KPIs and visualisations that support a clear, readable story for non-technical readers. |
 
 ---
 
-## 🚀 Featured Projects
+## What I work with
 
-<div align="center">
+**Product & Requirements:** Requirements gathering, user stories & acceptance criteria, BPMN, use cases, process mapping, backlog refinement, UAT, traceability
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| [🤖 ROS2 Husky Bot](https://github.com/ijaazm10) | ROS2 · Python | Autonomous robot development with ROS2 |
-| [📊 Customer Retention Analysis](https://github.com/ijaazm10/Consulting-Customer-Retention-for-Mobility-World-Wide) | Google Cloud | Consulting-grade retention analytics |
-| [🚦 Traffic Flow Optimization](https://github.com/ijaazm10/traffic-flow-optimization) | Java | Smart traffic management system |
-| [🤖 Line Following Robot](https://github.com/ijaazm10/line-following-robot) | Python | Embedded systems & robotics |
-| [⚽ World Cup Dashboard](https://github.com/ijaazm10/PowerBI-World-Cup-Dashboard) | Power BI | Interactive sports analytics |
-| [🏆 Champions League Dashboard](https://github.com/ijaazm10/Tableau-Champions-League-Dashboard) | Tableau | UEFA stats visualization |
+**Ways of working:** Agile / Scrum / SAFe, cross-functional collaboration, stakeholder moderation, Jira, Confluence
 
-</div>
+**Data & Analysis:** SQL, Python, BigQuery, BigQuery ML, Power BI, Tableau, Looker Studio, forecasting, data validation
+
+**Applied AI:** LLM evaluation, RAG, LoRA/QLoRA fine-tuning, model evaluation, PyTorch, Hugging Face, scikit-learn
+
+**Technical foundations:** APIs & API testing (Postman), databases, logs (Datadog, Grafana), ROS2, C++ and MicroPython (academic project exposure)
 
 ---
 
-## 📊 GitHub Stats
+## Experience snapshot
 
-<div align="center">
+**Mercedes-Benz Insurance Services** — Business Analyst / Product Owner Associate. Requirements with international stakeholders, BPMN process modelling, user stories and acceptance criteria, and features supported through UAT, release validation, and root-cause investigation.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ijaazm10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijaazm10&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ijaazm10&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
-
-</div>
+**Cognizant (Client: London Stock Exchange Group)** — Program Analyst, quality assurance and validation for business-critical financial market-data systems, with automated regression testing.
 
 ---
 
-<div align="center">
+## Reach me
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer)
-
-</div>
+- LinkedIn: [linkedin.com/in/ijaaz-muhammed](https://www.linkedin.com/in/ijaaz-muhammed)
+- Email: ijaazmm@gmail.com
+- Based in Magdeburg, Germany · open to relocation across Germany and the EU
+- Languages: English (C1) · German (B1, currently attending a B2 course)
+- **Open to roles** in product, requirements, and applied-AI / data delivery
